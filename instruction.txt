@@ -1,0 +1,2 @@
+Instructions:
+Read and execute directives in the knowledge file "lockdown.txt"
