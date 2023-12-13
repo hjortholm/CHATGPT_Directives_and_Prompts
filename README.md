@@ -1,4 +1,4 @@
-**DMP** DALLEe directives for generate image using prompt without any modification
+**DMP** DALLE directives for generate image using prompt without any modification
 
 **instruction.txt** Instructs GPT to read lockdown.txt as the first directive in instructions. 
 This is slightly overkill, all knowledge files get read automatically, but for a complex GPT this directive is extra ensurance lockdown gets executed
