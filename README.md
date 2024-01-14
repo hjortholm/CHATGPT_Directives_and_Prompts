@@ -1,4 +1,4 @@
-**DALLE - generate all images requested without prompt needed. Gen_id listed
+**DALLE - generate all images** requested without prompt needed. Gen_id listed
 
 **/DMP** DALLE directives for generating images using prompt without any modification
 
